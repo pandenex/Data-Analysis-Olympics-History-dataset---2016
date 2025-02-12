@@ -9,7 +9,8 @@ We shall download the 120 years of Olympics History dataset from Kaggle. This wa
 2) Table Structure
 ![image alt](https://github.com/pandenex/Data-Analysis-Olympics-History-dataset---2016/blob/d38a679d3aaca409863c92f27d9dfb87e3f2ec48/Olympics_History_NOC_Regions_Table_Data-V2.png)
 
-**Data Cleaning & Analysis** - MySQL Workbench
+##Data Cleaning & Analysis - MySQL Workbench
+
 **Questions** -
 1) How many olympics games have been held?
 2) List down all Olympics games held so far.
@@ -36,7 +37,7 @@ We shall download the 120 years of Olympics History dataset from Kaggle. This wa
 
 This analysis aims to explore various aspects of the Olympic Games, covering historical trends, country-wise performance, athlete achievements, and sport-specific insights. Using SQL, we will analyze participation patterns, medal distributions, and country-wise successes over time.
 
-Key areas of analysis include:
+**Key areas of analysis include:**
 
 Participation Trends: Total Olympic Games held, number of nations participating in each event, and identifying the highest and lowest participation years.
 Country-Level Insights: Nations that have participated in all Olympics, countries with the most medals, and those that have never won a gold medal.
