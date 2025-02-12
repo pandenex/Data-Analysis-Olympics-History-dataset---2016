@@ -32,7 +32,7 @@ We shall download the 120 years of Olympics History dataset from Kaggle. This wa
 19) In which Sport/event, India has won highest medals.
 20) Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
 
-##Olympics Data Analysis – Summary
+## Olympics Data Analysis – Summary
 
 This analysis aims to explore various aspects of the Olympic Games, covering historical trends, country-wise performance, athlete achievements, and sport-specific insights. Using SQL, we will analyze participation patterns, medal distributions, and country-wise successes over time.
 
