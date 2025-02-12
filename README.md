@@ -9,7 +9,7 @@ We shall download the 120 years of Olympics History dataset from Kaggle. This wa
 2) Table Structure
 ![image alt](https://github.com/pandenex/Data-Analysis-Olympics-History-dataset---2016/blob/d38a679d3aaca409863c92f27d9dfb87e3f2ec48/Olympics_History_NOC_Regions_Table_Data-V2.png)
 
-##Data Cleaning & Analysis - MySQL Workbench
+## Data Cleaning & Analysis - MySQL Workbench
 
 **Questions** -
 1) How many olympics games have been held?
@@ -39,9 +39,9 @@ This analysis aims to explore various aspects of the Olympic Games, covering his
 
 **Key areas of analysis include:**
 
-Participation Trends: Total Olympic Games held, number of nations participating in each event, and identifying the highest and lowest participation years.
-Country-Level Insights: Nations that have participated in all Olympics, countries with the most medals, and those that have never won a gold medal.
-Athlete Performance: Identifying the most successful athletes based on gold medals and total medals won, as well as details of the oldest gold medalist.
-Sport-Specific Trends: Determining which sports were played in all Summer Olympics, sports played only once, and the total number of sports played in each event.
-India’s Performance: Analyzing India’s top-performing sport, Olympic medals won by India in hockey across different years, and overall medal distribution.
-Gender-Based Insights: Calculating the ratio of male to female athletes participating in the Olympics.
+- Participation Trends: Total Olympic Games held, number of nations participating in each event, and identifying the highest and lowest participation years.
+- Country-Level Insights: Nations that have participated in all Olympics, countries with the most medals, and those that have never won a gold medal.
+- Athlete Performance: Identifying the most successful athletes based on gold medals and total medals won, as well as details of the oldest gold medalist.
+- Sport-Specific Trends: Determining which sports were played in all Summer Olympics, sports played only once, and the total number of sports played in each event.
+- India’s Performance: Analyzing India’s top-performing sport, Olympic medals won by India in hockey across different years, and overall medal distribution.
+- Gender-Based Insights: Calculating the ratio of male to female athletes participating in the Olympics.
